@@ -7,8 +7,8 @@ gradle:
 install:
   - ./gradlew publish
 env:
-  VERSION: "6.1.0"
+  VERSION: "6.1.1"
   USE_CLASSIFIER: "true"
   VARIANTS: "full,core,lite,routing"
-  AAR_URLS: "https://github.com/massif-maps/MassifMaps/releases/download/v6.1.0/massif-android-6.1.0-full.aar,https://github.com/massif-maps/MassifMaps/releases/download/v6.1.0/massif-android-6.1.0-core.aar,https://github.com/massif-maps/MassifMaps/releases/download/v6.1.0/massif-android-6.1.0-lite.aar,https://github.com/massif-maps/MassifMaps/releases/download/v6.1.0/massif-routing-android-6.1.0.aar"
+  AAR_URLS: "https://github.com/massif-maps/MassifMaps/releases/download/v6.1.1/massif-android-6.1.1-full.aar,https://github.com/massif-maps/MassifMaps/releases/download/v6.1.1/massif-android-6.1.1-core.aar,https://github.com/massif-maps/MassifMaps/releases/download/v6.1.1/massif-android-6.1.1-lite.aar,https://github.com/massif-maps/MassifMaps/releases/download/v6.1.1/massif-routing-android-6.1.1.aar"
 
